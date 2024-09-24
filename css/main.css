@@ -1008,7 +1008,7 @@ footer .card .box i:hover {
 @media (max-width: 576px) {
     body{
         background-image: url("../media/bannersm.jpg");
-        background-size: cover;
+        background-size: 100%;
         background-repeat: no-repeat;
         background-attachment: fixed;
         text-align: center;
@@ -1057,7 +1057,7 @@ footer .card .box i:hover {
 @media (max-width: 947px){
     body{
         background-image: url("../media/bannersm.jpg");
-        background-size: cover;
+        background-size: 100%;
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
@@ -1095,7 +1095,7 @@ footer .card .box i:hover {
 @media (max-width: 768px) {
     body{
         background-image: url("../media/bannersm.jpg");
-        background-size: cover;
+        background-size: 100%;
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
