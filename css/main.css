@@ -1007,10 +1007,12 @@ footer .card .box i:hover {
 
 @media (max-width: 576px) {
     body{
-        text-align: center;
+        background-image: url("../media/bannersm.jpg");
         background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        text-align: center;
     }
-
     .home-content .text-1,
     .home-content .text-2,
     .home-content .text-3 {
@@ -1053,6 +1055,12 @@ footer .card .box i:hover {
 }
 /* Responsive Styles */
 @media (max-width: 947px){
+    body{
+        background-image: url("../media/bannersm.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
     .menu-btn{
         display: block;
         z-index: 999;
@@ -1085,6 +1093,12 @@ footer .card .box i:hover {
 }
 
 @media (max-width: 768px) {
+    body{
+        background-image: url("../media/bannersm.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
     .navbar .menu {
         display: none;
         position: fixed;
