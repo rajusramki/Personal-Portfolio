@@ -1099,6 +1099,9 @@ footer .card .box i:hover {
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
+    .home{
+        height: 100vh;
+    }
     .navbar .menu {
         display: none;
         position: fixed;
